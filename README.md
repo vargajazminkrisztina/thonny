@@ -1,1 +1,6 @@
+
 # thonny
+```python
+print ("macska")
+```
+ 
