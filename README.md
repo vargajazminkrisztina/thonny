@@ -48,7 +48,6 @@ if "nem" == nap :
     print ("Sajnálom")
 else :
     print ("Sajnos nem értem a választ")
-    
-    ```
+```
 jegyzet print ("macska")
- 
+ macska
